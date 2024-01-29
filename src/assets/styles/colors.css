@@ -1,0 +1,15 @@
+.text-colorGreen {
+  color: #16c79e;
+}
+
+.text-colorRed {
+  color: #58f01c;
+}
+
+.bg-colorGreen {
+  background-color: #16c79e;
+}
+
+.bg-colorRed {
+  background-color: #ec7272;
+}
